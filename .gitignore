@@ -1,0 +1,6 @@
+.DS_Store
+data/TCGA*
+data/meta/gdc-client
+data/dfs
+__pycache__/
+.ipynb_checkpoints/
