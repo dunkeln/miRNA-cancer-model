@@ -2,6 +2,5 @@
 data/TCGA*
 data/meta/gdc-client
 data/dfs
-data/aux
 __pycache__/
 .ipynb_checkpoints/
